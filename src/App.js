@@ -3,7 +3,7 @@ import TaskList             from './components/TaskList';
 
 class App extends Component {
   render() {
-    return <TaskList />;
+    return <TaskList />
   }
 }
 
